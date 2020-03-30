@@ -65,7 +65,7 @@
   </div>
   </div>
     <div class="content1">
-      <h2 class="sub-title text-center">これまでにつくったもの。</h2>
+      <h2 class="sub-title text-center">つくったもの。</h2>
       <p class=" text-center mt-4">本を読んだり、youtubeで動画を見たり。だらだら作ってみました。
       </p>
       <div class="row cards mb-5">
@@ -126,7 +126,7 @@
 <div class="row">
   <div class="content1 con2 text-left">
     <h2 class="sub-title">学習教材</h2>
-    <p class="lead">1.書籍「1冊ですべて身につく<span class="orange">HTML</span>＆<span class="blue">CSS</span>とWebデザイン入門講座」
+    <p class="">1.書籍「1冊ですべて身につく<span class="orange">HTML</span>＆<span class="blue">CSS</span>とWebデザイン入門講座」
     </p>
     <p class="lead">2.オンライン学習サイト「ドットインストール」の<span class="parple">bootstrap</span>入門
     </p>
@@ -136,7 +136,7 @@
   </div>
   
 </div>
-<div class="comment-1 col-md-7 pb-2 ml-3">         
+<div class=" col-md-7 comment-2 pb-2 ml-3">         
   <p>1~3をやってサイトを作るまでに約20日かかったよ</p>
 </div>
   <div class="footer">
@@ -166,15 +166,3 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
   </body>
   </html>
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
