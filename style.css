@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+@font-face{
+    font-family: 'ニコモジ';
+    src: url(nicomoji-plus_1.11.ttf);
+}
+
+
+.bg-dark{
+    opacity:0.75;
+    background-color: salmon ;
+}
+body{
+    background-color: #F0B1E0;
+    font-family: 'ニコモジ';
+    margin: 0 20px;
+}
+.top-page .top-img{
+    background-image: url(images/top.jpg);
+    background-size: contain;
+    min-width: 50vh;
+    min-height: 50vh;
+    background-repeat: no-repeat;
+    background-position:50% 0;
+}
+.nabar{
+    color: brown;
+}
+.page-title{
+    font-family:ニコモジ;
+    font-size: 6rem;
+    padding-top: 7rem;
+    color: white;
+    text-shadow: 0px 3px 6px #000000;
+}
+.main-contents{
+    font-size: 1.5rem;
+}
+.content1{
+
+    font-family: ニコモジ;
+    font-size: 1.5rem;
+    color: white;
+    padding:5rem 1rem;
+}
+
+
+.bg-wrapper{
+   
+
+}
+.sub-title{
+    font-family: ニコモジ;
+    font-size: 3rem;    
+    color: white;
+    text-shadow: 1px 2px 2px #000000;
+}
+.content2 h2{
+padding-top: 5rem;
+}
+.orange{
+    color: #F06D20;
+}
+.blue{
+    color:#1C64E1;
+}
+.parple{
+    color: #9B3B97;
+}
+.yellow{
+    color: #F2DB12;
+}
+.sky{
+    color:#0AA0D9;
+}
+.con1-2{
+  background-image: url(images/undraw_researching_22gp.svg); 
+  background-size: contain;
+  background-repeat: no-repeat;
+  min-height: 40vh;
+  max-width: 50vh;
+  background-position:70% 100%;
+}
+.wrapper{
+
+   
+}
+.card{
+    background-color:#F1A9C9;
+    border-color: #F1A9C9;
+    margin-top:3rem;
+}
+.btn-secondary{
+        background-color:#FFAA00;
+        border-color: #FFAA00;
+        padding:0.4rem 2.6rem;
+}
+.btn-secondary:hover{
+    background-color: #D68E00;
+    border-color:#D68E00;
+}
+.con2{
+    letter-spacing: .04rem;
+    padding-bottom: 1rem;
+}
+.con2 p{
+    font-size: 1.5rem;
+}
+.big{
+    color: black;
+    font-size: 30px;
+}
+.text-shadow{
+    text-shadow: 0px 3px 6px #000000;
+}
+.footer{
+   background-size:contain;
+   position: relative;
+   height: 100%;
+   padding-top: 26vh;
+
+}
+.footer h2{
+    font-size: 4.5rem;
+}
+.footer li{
+    font-family:ニコモジ;
+    font-size: 1.7rem;
+}
+.last h1{
+    font-family:ニコモジ;
+    font-size: 3.5rem;
+    margin-top: 3em;
+}
+.last{
+    padding-bottom: 20vh;
+    width: 100%;
+}
+.bg-wrapper{
+background-image: url(images/左三角2.png);
+background-position: absolute;
+background-size: cov;
+}
+.bg-1{
+    position: absolute;;
+    z-index: -1;
+    width:120%;
+    height: 200%;
+    top:-40%;
+    left:-40%
+}
+.comment-1{
+text-align: center;
+color:black;
+font-size: 24px;
+background-image: url(images/グループ\ 56@2x.png);
+position: relative;
+width:350px;
+background-size: 100% 100%;
+padding:15px 0px;
+}
+p{
+    font-size: 25px;
+}
+.red{
+    color: red;
+}
+@media(max-width:600px){
+    body{
+        background-color: #F0B1E0;
+        font-family: 'ニコモジ';
+        margin: 0 5px;
+    }
+    .page-title{
+        font-family:ニコモジ;
+        font-size: 3rem;
+        padding-top: 7rem;
+        color: white;
+        text-shadow: 0px 3px 6px #000000;
+    }
+    .sub-title{
+        font-family: ニコモジ;
+        font-size: 2rem;    
+        color: white;
+        text-shadow: 1px 2px 2px #000000;
+    }
+    p{
+        font-size: 17px;
+    }
+
+    .comment-1{
+        text-align: center;
+        color:black;
+        font-size: 2px;
+        background-image: url(images/グループ\ 56@2x.png);
+        position: relative;
+        width:350px;
+        background-size: 100% 100%;
+        padding:15px 0px;
+    }
+    .comment-2{
+        text-align: center;
+        color:black;
+        font-size: px;
+        background-image: url(images/グループ\ 56@2x.png);
+        position: relative;
+        width:350px;
+        background-size: 100% 100%;
+        padding:15px 0px;
+    }
+    .content1{
+
+        font-family: ニコモジ;
+        font-size: rem;
+        color: white;
+        padding:2rem 1rem;
+    }
+    .con2 p{
+        font-size: 1rem;
+    }
+
+}
